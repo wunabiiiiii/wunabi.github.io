@@ -1,0 +1,47 @@
+p{
+    color:red
+}  
+
+.conan{
+    background-color: pink;
+}
+
+a.nabilink {
+    padding: 8px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 50px;
+    color: cornflowerblue;
+}
+
+a.nabilink:hover {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+div.nabidiv {
+    background-color: pink;
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid rgb(20, 153, 224);
+}
+
+h4.nabidiv{
+    color: cornflowerblue;
+    font-size: 18px;
+}
+.nabiblue{
+    color: cornflowerblue;
+}
+.nabicrop{
+    height: 200px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px ;
+    border-radius: 50px;
+}
+
+.jeffcallmebg{
+    background-image: url("assets/photo/背景.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
