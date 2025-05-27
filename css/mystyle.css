@@ -1,5 +1,5 @@
 p{
-    color:red
+    color:black
 }  
 
 .conan{
@@ -18,8 +18,8 @@ a.nabilink:hover {
     color: white;
 }
 
-div.nabidiv {
-    background-color: rgb(158, 27, 49);
+div.nabidiv{
+    background-color: rgb(56, 127, 168);
     padding: 30px;
     border-radius: 10px;
     border: 1px solid rgb(25, 167, 12);
@@ -40,8 +40,8 @@ h4.nabidiv{
     border-radius: 50px;
 }
 
-.jeffcallmebg{
-    background-image: url("assets/photo/背景.jpg");
+body.aboutpage {
+    background-image:url( "assets/photo/05.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
