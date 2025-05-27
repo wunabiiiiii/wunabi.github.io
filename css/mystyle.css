@@ -40,8 +40,9 @@ h4.nabidiv{
     border-radius: 50px;
 }
 
-body.aboutpage {
-    background-image:url( "assets/photo/05.jpg");
+.nabicallmebg{
+    background-image: url("../assets/photo/05\ .jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
+
